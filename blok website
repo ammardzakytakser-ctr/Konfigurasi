@@ -1,0 +1,9 @@
+buka winbox
+ip > firewall 
+filter rules > general 
+chain > forward 
+out.interface > ether 2 di centang 
+copy link website yang mau di blok
+click advance click content, paste 
+action > drop
+apply 
